@@ -1,6 +1,6 @@
 #支持私库
 #opengrok/docker
-arm64v7/adoptopenjdk:1.8
+arm64v8/openjdk:8
 arm64v8/centos
 arm64v8/ubuntu:latest
 #支持指定架构
