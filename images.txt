@@ -1,7 +1,7 @@
 #支持私库
 #opengrok/docker
-arm64v8/openjdk:8
-arm64v8/centos
+#arm64v8/openjdk:8
+#arm64v8/centos
 neo4j/neo4j-arm64-experimental:4.1.0-arm64
 #支持指定架构
 #--platform=linux/arm64
